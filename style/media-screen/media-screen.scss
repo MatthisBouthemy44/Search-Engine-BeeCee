@@ -1,0 +1,25 @@
+@media only screen and (min-width: 390px) {
+    /*====BODY====*/
+body{
+    background-repeat: repeat;
+  }
+
+/*====HEADER====*/
+header{
+
+    /*====Titre====*/
+    .title{
+        font-size: 50px;
+    }
+
+    /*====Sous-titre====*/
+    .sub-title{
+        font-size: 20px;
+    }
+}
+ 
+/*====SEARCH INPUT====*/
+  .input-control{
+    width: 300px;
+  }
+}
